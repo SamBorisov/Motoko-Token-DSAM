@@ -1,5 +1,7 @@
 # Check your Balance
 
+### Token DSAM with Faucet , check Balance and Transfer fucntionalites. Also the app saves the balance of the youser when re-deployed
+
 1. Find out your principal id:
 
 ```
